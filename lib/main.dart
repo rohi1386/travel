@@ -106,7 +106,7 @@ class _HomeState extends State<Home> {
                   ),
                   //Head icon///////////////////
                   Padding(
-                    padding: const EdgeInsets.fromLTRB(16, 20, 16, 1),
+                    padding: const EdgeInsets.fromLTRB(16, 20, 16, 0),
                     child: Row(
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
                       children: [
